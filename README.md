@@ -1,2 +1,6 @@
 # sellms
-vue全家桶
+vue 
+vue router
+axios
+echarts
+elementUI
